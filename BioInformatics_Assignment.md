@@ -133,6 +133,7 @@ A total of 28 complete Dengue virus genome sequences were downloaded in FASTA fo
 | **Total** | | **28** | **100%** |
 
 #### Figure 1: Search Filters Used
+![Figure 1: Search Filters Used](figures/NCBI%20Search%20Filters1.png)
 
 ---
 
@@ -140,6 +141,7 @@ A total of 28 complete Dengue virus genome sequences were downloaded in FASTA fo
 **Page 6**
 
 #### Figure 2: Metadata of the Downloaded 28 Genome Sequences
+![Figure 2: Metadata of the Downloaded 28 Genome Sequences](figures/Sequence%20Metadata.png)
 
 ---
 
@@ -163,6 +165,7 @@ The downloaded FASTA file was evaluated using the FASTA Statistics tool availabl
 No sequences contained ambiguous nucleotide characters, indicating good sequence quality. The genome lengths were consistent with expected Dengue virus genome sizes (~10.7 kb).
 
 #### Figure 3: Output From Running Fasta Statistics Tool from Galaxy on the Original FASTA file
+![Figure 3: Output From Running Fasta Statistics Tool from Galaxy on the Original FASTA file](figures/Fasta%20Statistics%20output%20(Original).png)
 
 ---
 
@@ -206,6 +209,7 @@ The resulting aligned FASTA file was evaluated using FASTA Statistics.
 The alignment produced equal-length sequences of 10,825 bp, suitable for downstream phylogenetic analysis.
 
 #### Figure 5: Output From Running Fasta Statistics Tool from Galaxy on the MAFFT Aligned FASTA file
+![Figure 5: Output From Running Fasta Statistics Tool from Galaxy on the MAFFT Aligned FASTA file](figures/Fasta%20Statistics%20output%20(Aligned).png)
 
 ---
 
@@ -213,6 +217,7 @@ The alignment produced equal-length sequences of 10,825 bp, suitable for downstr
 **Page 10**
 
 #### Figure 6: MAFFT Workflow Execution
+![Figure 6: MAFFT Workflow Execution](figures/MAFFT%20Workflow%20Execution.png)
 
 ### 2.4 Maximum Likelihood Phylogenetic Analysis Using IQ-TREE
 The MAFFT alignment was used as input for phylogenetic reconstruction using IQ-TREE 2.4.0. The analysis parameters were:
@@ -242,7 +247,9 @@ The resulting Maximum Likelihood tree was generated in NHX format. Output files 
 **Page 11**
 
 #### Figure 7: Evolutionary Model Selected by IQ-TREE
+![Figure 7: Evolutionary Model Selected by IQ-TREE](figures/IQ-TREE%20Evolutionary%20Model%20Selection.png)
 #### Figure 8: Bootstrap settings for IQ-TREE
+![Figure 8: Bootstrap Settings for IQ-TREE](figures/Bootstrap%20Settings.png)
 
 ---
 
@@ -255,6 +262,7 @@ The resulting Maximum Likelihood tree was generated in NHX format. Output files 
 The Maximum Likelihood phylogenetic tree was visualized using a tree visualization tool such as iTOL.
 
 #### Figure 9: Resulting Phylogenetic Tree
+![Figure 9: Resulting Phylogenetic Tree](figures/Phylogenetic%20Tree.png)
 
 ---
 
