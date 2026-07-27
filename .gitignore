@@ -1,0 +1,6 @@
+# Git ignore file for Dengue Virus Phylogenetic Analysis
+.DS_Store
+Thumbs.db
+*.log
+*.tmp
+*.bak

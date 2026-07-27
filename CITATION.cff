@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this analysis, please cite it as below."
+authors:
+  - family-names: Peiris
+    given-names: KS
+title: "Phylogenetic Analysis of Dengue Virus Genomes Using Galaxy, MAFFT, and IQ-TREE"
+version: 1.0.0
+date-released: 2026-07-27
+url: "https://github.com/kspeiris/dengue-virus-phylogenetic-analysis"
