@@ -12,10 +12,7 @@
 **CCS4082 - BioInformatics**
 
 **Submitted by:**
-- S. D. Suraweera - FC110567
-- K. A. D. C. Perera - FC110533
-- T. H. Perera - FC110564
-- G. P. S. Weerakoon - FC110550
+- Kavindu Peiris - FC212045
 
 ---
 
@@ -134,6 +131,8 @@ A total of 28 complete Dengue virus genome sequences were downloaded in FASTA fo
 
 #### Figure 1: Search Filters Used
 ![Figure 1: Search Filters Used](figures/NCBI%20Search%20Filters1.png)
+![Figure 1: Search Filters Used - Part 2](figures/NCBI%20Search%20Filters2.png)
+![Figure 1: Search Filters Used - Part 3](figures/NCBI%20Search%20Filters3.png)
 
 ---
 
@@ -166,6 +165,7 @@ No sequences contained ambiguous nucleotide characters, indicating good sequence
 
 #### Figure 3: Output From Running Fasta Statistics Tool from Galaxy on the Original FASTA file
 ![Figure 3: Output From Running Fasta Statistics Tool from Galaxy on the Original FASTA file](figures/Fasta%20Statistics%20output%20(Original).png)
+![Figure 3: Output From Running Fasta Statistics Tool from Galaxy on the Original FASTA file - Part 2](figures/Fasta%20Statistics%20output%20(Original)2.png)
 
 ---
 
@@ -210,6 +210,7 @@ The alignment produced equal-length sequences of 10,825 bp, suitable for downstr
 
 #### Figure 5: Output From Running Fasta Statistics Tool from Galaxy on the MAFFT Aligned FASTA file
 ![Figure 5: Output From Running Fasta Statistics Tool from Galaxy on the MAFFT Aligned FASTA file](figures/Fasta%20Statistics%20output%20(Aligned).png)
+![Figure 5: Output From Running Fasta Statistics Tool from Galaxy on the MAFFT Aligned FASTA file - Part 2](figures/Fasta%20Statistics%20output%20(Aligned)2.png)
 
 ---
 
